@@ -1,5 +1,5 @@
 <h1>Hello from Ukraine! <img src="https://storage.googleapis.com/multi-static-content/thumbs/artage-io-thumb-936ac0f7174a1cdff422f7278a8c7a5d.svg" height="20" align="center"> My name is Ivan Seleznov</h1>
-<h3>I`m .NET&nbsp; and&nbsp; C++ Unreal Engine <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="20"/> &nbsp;game developer</h3>
+<h3>I`m C++ Unreal Engine <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="20"/> &nbsp;game developer</h3>
 
 ### :wrench:Languages and tools
 <img align="left" alt="Java" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
