@@ -1,5 +1,4 @@
-<img src="https://storage.googleapis.com/multi-static-content/thumbs/artage-io-thumb-936ac0f7174a1cdff422f7278a8c7a5d.svg" height="20" align="center">
-<h1>C++ Unreal Enginev game developer</h3>
+<h1><img src="https://storage.googleapis.com/multi-static-content/thumbs/artage-io-thumb-936ac0f7174a1cdff422f7278a8c7a5d.svg" height="20" align="center"> C++ Unreal Engine game developer</h3>
 
 ### :wrench:Languages and tools
 <img align="left" alt="Java" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
