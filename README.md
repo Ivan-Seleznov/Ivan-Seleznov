@@ -1,4 +1,4 @@
-<h1>Hello from Ukraine! <img src="https://storage.googleapis.com/multi-static-content/thumbs/artage-io-thumb-936ac0f7174a1cdff422f7278a8c7a5d.svg" height="20" align="center"> My name is Ivan Seleznov</h1>
+<h1><img src="https://storage.googleapis.com/multi-static-content/thumbs/artage-io-thumb-936ac0f7174a1cdff422f7278a8c7a5d.svg" height="20" align="center"></h1>
 <h3>I`m C++ Unreal Enginev game developer</h3>
 
 ### :wrench:Languages and tools
