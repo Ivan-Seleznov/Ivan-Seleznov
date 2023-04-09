@@ -1,4 +1,4 @@
-<h1>C++ Unreal Engine game developer <img src="https://storage.googleapis.com/multi-static-content/thumbs/artage-io-thumb-936ac0f7174a1cdff422f7278a8c7a5d.svg" height="20" align="center">  </h3>
+<h1>C++ Unreal Engine game developer from <img src="https://storage.googleapis.com/multi-static-content/thumbs/artage-io-thumb-936ac0f7174a1cdff422f7278a8c7a5d.svg" height="20" align="center">  </h3>
 
 ### :wrench:Languages and tools
 <img align="left" alt="Java" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
