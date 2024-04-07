@@ -5,7 +5,6 @@
   <li>ivan.selezniov228333@gmail.com</li>
   <li><a href="https://www.linkedin.com/in/ivan-seleznov/">Linkedin</a></li>
 </ul>
-<br>
 <h3>Skills:</h3>
 <ul>
   <li>C++/C# programming skills</li>
