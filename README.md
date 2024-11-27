@@ -12,7 +12,7 @@
   <li>English - Upper intermediate</li>
 </ul>
 <h3>Hobbies:</h3>
-<h2>Unreal Engine game development</h2>
+<h4>Unreal Engine game development</h4>
 <ul>
   <li>Unreal Engine Projects Portfolio - https://ivan-seleznov.github.io/</li>
 </ul>
