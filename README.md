@@ -1,5 +1,5 @@
 <h3>Contacts me: ivan.selezniov228333@gmail.com</h3>
-<h3>Skills:</h3>
+<h3>Main Skills:</h3>
 <ul>
   <li>C#/C++ programming skills</li>
   <li>SQL, Postgress</li>
