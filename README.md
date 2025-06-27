@@ -15,6 +15,6 @@
 <h4>Unreal Engine game development</h4>
 <ul>
   <li>
-    Check out my <a href="https://ivan-seleznov.github.io/" target="_blank">UE Projects Portfolio</a> — includes both multiplayer and single-player projects. Worked with C++, Blueprints, 3D Math, Gameplay Ability System (GAS), Replication, custom Character Movement Component
+    Check out my <a href="https://ivan-seleznov.github.io/" target="_blank">UE Projects Portfolio</a> — includes both multiplayer and single-player projects.<br />Worked with: C++, Blueprints, 3D Math, Gameplay Ability System (GAS), Replication, custom Character Movement Component
   </li>
 </ul>
