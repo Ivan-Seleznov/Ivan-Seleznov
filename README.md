@@ -25,8 +25,7 @@ I am a Software Engineer focused on building scalable web applications with clea
 
 ### 🎮 Unreal Engine Portfolio
 While my current focus is entirely on Web Development, my past experience with game engines reflects my ability to handle complex state management and performance optimization.
-* **[Check out my UE Projects Portfolio](https://ivan-seleznov.github.io/)**
-* *Keywords:* Multiplayer/Single-player, Blueprints, Gameplay Ability System (GAS), custom Character Movement Component.
+**[Check out my UE Projects Portfolio](https://ivan-seleznov.github.io/)**
 
 ---
 
