@@ -1,4 +1,4 @@
-# Hi, I'm Ivan Selezniov 👋
+# Hi, I'm Ivan Seleznov 👋
 **Software Engineer | Full Stack Web Development (.NET & Modern Frontend) | C++ Enthusiast**
 
 ---
