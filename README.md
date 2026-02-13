@@ -31,5 +31,5 @@ While my current focus is entirely on Web Development, my past experience with g
 
 ### 📫 Contact Me
 * **Email:** [ivan.selezniov228333@gmail.com](mailto:ivan.selezniov228333@gmail.com)
-* **LinkedIn:** [https://www.linkedin.com/in/ivan-seleznov/]
+* **LinkedIn:** https://www.linkedin.com/in/ivan-seleznov/
 * **Language:** English (Upper-Intermediate)
